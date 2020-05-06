@@ -1,0 +1,14 @@
+
+.jumbotron {
+    background-color: #d86153;
+    color: snow;
+}
+.footer {
+    background-color: #d86153;
+    color: snow;
+    padding: 20px 0px 20px 0px;
+}
+a{
+    text-decoration: none ;
+    color: snow;
+}
